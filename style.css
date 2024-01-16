@@ -1,0 +1,49 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.mihealth {
+  padding: 20px;
+}
+ul {
+  display: flex;
+  list-style-type: none;
+}
+li {
+  padding: 10px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
+main {
+  display: flex;
+  background-color: lightgrey;
+  padding: 40px;
+}
+.container {
+  display: flex;
+}
+img {
+  width: 400px; /* Set a fixed width for all images */
+  height: 400px; /* Set a fixed height for all images */
+  object-fit: cover;
+  padding: 0px 5px;
+}
+.beHealthy {
+  padding: 30px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 50px;
+  font-weight: 700;
+}
+.shrimp {
+  background-position: 50% 50%;
+  max-width: 300px;
+}
