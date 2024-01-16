@@ -31,13 +31,13 @@ main {
 }
 img {
   width: 400px; /* Set a fixed width for all images */
-  height: 400px; /* Set a fixed height for all images */
+  height: 600px; /* Set a fixed height for all images */
   object-fit: cover;
   padding: 0px 5px;
 }
 .beHealthy {
   padding: 30px;
-  margin: 0 auto;
+  max-width: 300px;
 }
 h1 {
   font-size: 50px;
