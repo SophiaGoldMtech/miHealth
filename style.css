@@ -40,7 +40,7 @@ a {
 main {
   display: flex;
   background-color: lightgrey;
-  padding: 75px;
+  padding: 90px;
 }
 .container {
   display: flex;
@@ -55,18 +55,26 @@ img {
 }
 .beHealthy {
   width: 25%;
-  height: 500px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 25px;
 }
 h1 {
   font-size: 70px;
   font-weight: 900;
-  line-height: 0.9;
+  line-height: 0.2;
   padding: 0;
   margin: 0;
+  margin-bottom: 10px;
 }
 .menu {
   font-size: 25px;
   font-weight: 600;
+}
+.menu i {
+  margin-left: 10px;
 }
 .picture {
   width: 33%;
