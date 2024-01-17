@@ -19,12 +19,12 @@ ul {
   list-style-type: none;
 }
 li {
-  font-size: large;
+  font-size: 25px;
 }
 a {
   color: black;
   text-decoration: none;
-  padding-left: 30px;
+  padding-left: 40px;
 }
 main {
   display: flex;
