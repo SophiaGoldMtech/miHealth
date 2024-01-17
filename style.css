@@ -13,6 +13,10 @@ header {
   font-weight: 900;
   font-size: 40px;
   color: #8cc627;
+  display: flex;
+}
+.mi {
+  color: #ce2021;
 }
 ul {
   display: flex;
