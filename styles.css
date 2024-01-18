@@ -43,6 +43,7 @@ main {
   display: flex;
   background-color: lightgrey;
   padding: 90px;
+  background-image: url("https://www.toptal.com/designers/subtlepatterns/uploads/spikes.png");
 }
 .container {
   display: flex;
@@ -63,7 +64,8 @@ img {
   justify-content: space-between;
   margin-top: 25px;
 }
-h1 {
+h1,
+h2 {
   font-size: 60px;
   font-weight: 800;
   line-height: 0.1;
@@ -84,6 +86,7 @@ h1 {
 }
 .lorem {
   font-size: 20px;
+  font-weight: 400;
 }
 .green {
   font-size: 15px;
