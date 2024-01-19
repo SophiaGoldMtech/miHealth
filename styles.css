@@ -63,6 +63,7 @@ img {
   flex-direction: column;
   justify-content: space-between;
   margin-top: 25px;
+  min-width: 284px;
 }
 h1,
 h2 {
